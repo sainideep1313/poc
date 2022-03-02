@@ -71,6 +71,7 @@
              <br>
              <br>
             <button type="submit" class="btn btn-outline-danger">Register</button>
+
             <br>
             <br>
           </form>
