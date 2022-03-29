@@ -67,6 +67,8 @@
         </span><br>
         </div>
         <button type="submit" class="btn btn-outline-danger">Submit</button>
+        <a href="signup" class="btn btn-outline-danger">Signup</a>
+
        
         <br><br>
       </form>

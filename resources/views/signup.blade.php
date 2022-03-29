@@ -71,6 +71,7 @@
              <br>
              <br>
             <button type="submit" class="btn btn-outline-danger">Register</button>
+            <a href="login" class="btn btn-outline-danger">Login</a>
 
             <br>
             <br>
